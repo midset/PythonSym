@@ -13,4 +13,7 @@ Usage :
 2- chmod 755 SymMid.py
 3- Python SymMid.py
 
+[+] The Same for passwd.py
+
+
 Enjoy.

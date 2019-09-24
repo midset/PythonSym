@@ -1,11 +1,8 @@
 # PythonSym
 Python server Symlink creation
-
-##~ Mid Set LoC ReAd                         
- Symlink creator                          
+                                            
 Read /etc/passwd >> passwd.txt              
-GreeTz : HsN,Hiso,Fat7,vir,Marco,oudouz,D3v.  
-All Rights Reserved @ Mid-Set        
+All Rights Reserved @ Abdelhamid      
 C0ntact : https://www.linkedin.com/in/abdelhamid-ben/          
 
 Usage : 

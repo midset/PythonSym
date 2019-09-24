@@ -6,7 +6,7 @@ Python server Symlink creation
 Read /etc/passwd >> passwd.txt              
 GreeTz : HsN,Hiso,Fat7,vir,Marco,oudouz,D3v.  
 All Rights Reserved @ Mid-Set        
-C0ntact : http://fb.com/midset00             
+C0ntact : https://www.linkedin.com/in/abdelhamid-ben/          
 
 Usage : 
 1- Upload in server
